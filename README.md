@@ -4,11 +4,11 @@ width="133" height="100">
 
 <br /><br /><br /><br /><br />
 
-# ARCHER2 Advanced MPI course (September 2023)
+# ARCHER2 Advanced MPI course (June 2024)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-<h3>David Henty EPCC: 6-7 September 2023 09:30 - 17:00 BST, online</h3>
+<h3>David Henty EPCC: 27-28 June 2024 09:30 - 17:00 BST, online</h3>
 
 This course is aimed at programmers seeking to deepen their
 understanding of MPI and explore some of its more recent and advanced
@@ -48,7 +48,7 @@ a previous run of the course and the details may change for this run.
 &copy; EPCC, The University of Edinburgh, and is only made available
 for private study. </blockquote></p>
 
-<h4>Day 1: Wednesday 6th September</h4>
+<h4>Day 1: Thursday 27th June</h4>
 
  *   09:30 - 09:40 <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/slides/L00-ARCHER2-Intro.pdf">ARCHER2 training</a>
  *   09:40 - 10:15 <a href="https://b.socrative.com/login/student/">MPI Quiz</a> ("Room Name" is: **HPCQUIZ**)
@@ -61,7 +61,7 @@ for private study. </blockquote></p>
  *   16:00 - 17:00 <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/slides/AMPP_Neighbourhood.pdf">Neighbourhood Collectives</a>
  *   17:00 CLOSE
 
-<h4>Day 2: Thursday 7th September</h4>
+<h4>Day 2: Friday 28th June</h4>
 
  *   09:30 - 11:00 <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/slides/L06-MPIandOpenMP.pdf">MPI + OpenMP (i)<a>
  *   11:00 - 11:30 Coffee
