@@ -85,7 +85,7 @@ special reserved queues to guarantee fast turnaround.
 The reserved queue for today is called `ta161_1261863`. To use this queue, change the `--qos` and `--reservation` lines to:
 ````
 #SBATCH --qos=reservation
-#SBATCH --reservation=ta161_1261866
+#SBATCH --reservation=ta161_1261863
 ````
 
  * <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/exercises/ARCHER2-pingpong.pdf">Ping-pong exercise sheet</a>
