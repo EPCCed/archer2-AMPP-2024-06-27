@@ -82,10 +82,10 @@ for private study. </blockquote></p>
 SLURM batch scripts are set to run in the short queue and should work any time. However, on days when the course is running, we have
 special reserved queues to guarantee fast turnaround.
 
-The reserved queue for today is called `ta117_1002288`. To use this queue, change the `--qos` and `--reservation` lines to:
+The reserved queue for today is called `ta161_1261863`. To use this queue, change the `--qos` and `--reservation` lines to:
 ````
 #SBATCH --qos=reservation
-#SBATCH --reservation=ta117_1002288
+#SBATCH --reservation=ta161_1261866
 ````
 
  * <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/exercises/ARCHER2-pingpong.pdf">Ping-pong exercise sheet</a>
@@ -107,10 +107,10 @@ The reserved queue for today is called `ta117_1002288`. To use this queue, chang
  
 <h4>Day 2</h4>
 
-The reserved queue for today is called `ta117_1002291`. To use this queue, change the `--qos` and `--reservation` lines to:
+The reserved queue for today is called `ta161_1261866`. To use this queue, change the `--qos` and `--reservation` lines to:
 ````
 #SBATCH --qos=reservation
-#SBATCH --reservation=ta117_1002291
+#SBATCH --reservation=ta161_1261866
 ````
 
  * <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/exercises/traffic-advmpi.pdf">Traffic modeling exercise sheet</a>
